@@ -7,7 +7,7 @@ Play the drums by clicking the buttons or using your keyboard keys: `W`, `A`, `S
 
 ## 🔗 Live Demo
 
-Try it online: [Drum Kit Live Demo]
+Try it online: [Drum Kit Live Demo]:https://darkobenic92.github.io/DRUM-KIT/
 
 ---
 
@@ -29,4 +29,5 @@ Try it online: [Drum Kit Live Demo]
 - Google Fonts (Arvo)
 
 ---
+
 
